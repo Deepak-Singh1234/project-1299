@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.ZdXKDlz0BFILR8z3oYucZAHaHa&pid=Api&P=0&w=300&h=300);
+    background-size: cover;
+}
+#edm{
+    font-family: 'Indie Flower', cursive;
+}
+canvas{
+    float: center;
+}
